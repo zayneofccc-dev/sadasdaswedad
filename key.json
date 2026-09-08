@@ -1,8 +1,9 @@
 {
-  "keys": ["FREE-TRIAL"],
+  "keys": [
+    "FREE-TRIAL"
+  ],
   "metadata": {
     "FREE-TRIAL": {
-      "urcoolbro": {
       "expiry": "never",
       "owner": "Trial User",
       "firstUsed": null
