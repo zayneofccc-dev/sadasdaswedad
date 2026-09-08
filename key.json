@@ -1,12 +1,23 @@
 {
   "keys": [
-    "i like ckien"
-    "FREE-TRIAL"
+    "ABC123XYZ789",
+    "DEF456UVW012",
+    "ILIKEFEET"
   ],
   "metadata": {
-    "FREE-TRIAL": {
+    "ABC123XYZ789": {
+      "expiry": "30d",
+      "owner": "PlayerName",
+      "firstUsed": null
+    },
+    "DEF456UVW012": {
       "expiry": "never",
-      "owner": "Trial User",
+      "owner": "PremiumUser",
+      "firstUsed": null
+    },
+    "ILIKEFEET": {
+      "expiry": "7d",
+      "owner": "TrialUser",
       "firstUsed": null
     }
   }
