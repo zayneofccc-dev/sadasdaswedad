@@ -1,0 +1,10 @@
+{
+  "keys": ["FREE-TRIAL"],
+  "metadata": {
+    "FREE-TRIAL": {
+      "expiry": "never",
+      "owner": "Trial User",
+      "firstUsed": null
+    }
+  }
+}
